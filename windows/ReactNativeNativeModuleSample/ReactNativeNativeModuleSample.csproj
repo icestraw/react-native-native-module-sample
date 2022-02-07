@@ -108,6 +108,9 @@
     <PackageReference Include="ReactNative.Hermes.Windows">
       <Version>0.10.0-ms.1</Version>
     </PackageReference>
+    <PackageReference Include="Syroot.Windows.IO.KnownFolders">
+      <Version>1.2.3</Version>
+    </PackageReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '16.0' ">
     <VisualStudioVersion>16.0</VisualStudioVersion>
