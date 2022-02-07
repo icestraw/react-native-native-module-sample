@@ -121,7 +121,7 @@ namespace ReactNativeNativeModuleSample
     }
 
 
-    [ReactModule("ReactNativeFs")]
+    [ReactModule("ReactNativeNativeModuleSample")]
     internal sealed class ReactNativeModule
     {
         // See https://microsoft.github.io/react-native-windows/docs/native-modules for details on writing native modules
