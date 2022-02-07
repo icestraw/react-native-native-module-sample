@@ -9,6 +9,7 @@
     "android",
     "index.js",
     "ios",
+    "windows",
     "react-native-native-module-sample.podspec"
   ],
   "scripts": {
